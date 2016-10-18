@@ -4,3 +4,4 @@ node_modules
 build/js/app.js
 # Ignores files Macs generate
 .DS_Store
+npm-debug.log
